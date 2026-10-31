@@ -1,0 +1,1609 @@
+{
+  "demo": true,
+  "description": "Entirely fictional schedule and fatigue values, authored for this public showcase.",
+  "days": [
+    {
+      "day": 1,
+      "events": [
+        {
+          "id": "d1-e0",
+          "title": "Sleep",
+          "startTime": "00:00",
+          "endTime": "06:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 1
+        },
+        {
+          "id": "d1-e1",
+          "title": "Wake-up & breakfast",
+          "startTime": "06:00",
+          "endTime": "07:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 1
+        },
+        {
+          "id": "d1-e2",
+          "title": "Mission briefing",
+          "startTime": "07:00",
+          "endTime": "08:00",
+          "taskIntensity": "medium",
+          "status": "planned",
+          "day": 1
+        },
+        {
+          "id": "d1-e3",
+          "title": "Scientific experiment",
+          "startTime": "08:00",
+          "endTime": "10:00",
+          "taskIntensity": "high",
+          "status": "planned",
+          "day": 1
+        },
+        {
+          "id": "d1-e4",
+          "title": "Recovery break",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 1
+        },
+        {
+          "id": "d1-e5",
+          "title": "Research task",
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "taskIntensity": "high",
+          "status": "planned",
+          "day": 1
+        },
+        {
+          "id": "d1-e6",
+          "title": "Lunch",
+          "startTime": "13:00",
+          "endTime": "14:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 1
+        },
+        {
+          "id": "d1-e7",
+          "title": "Equipment check",
+          "startTime": "14:00",
+          "endTime": "16:00",
+          "taskIntensity": "medium",
+          "status": "planned",
+          "day": 1
+        },
+        {
+          "id": "d1-e8",
+          "title": "Exercise",
+          "startTime": "16:00",
+          "endTime": "17:00",
+          "taskIntensity": "medium",
+          "status": "planned",
+          "day": 1
+        },
+        {
+          "id": "d1-e9",
+          "title": "Personal time",
+          "startTime": "17:00",
+          "endTime": "18:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 1
+        },
+        {
+          "id": "d1-e10",
+          "title": "Dinner",
+          "startTime": "18:00",
+          "endTime": "19:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 1
+        },
+        {
+          "id": "d1-e11",
+          "title": "Mission review",
+          "startTime": "19:00",
+          "endTime": "20:00",
+          "taskIntensity": "medium",
+          "status": "planned",
+          "day": 1
+        },
+        {
+          "id": "d1-e12",
+          "title": "Sleep preparation",
+          "startTime": "20:00",
+          "endTime": "22:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 1
+        },
+        {
+          "id": "d1-e13",
+          "title": "Sleep",
+          "startTime": "22:00",
+          "endTime": "24:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 1
+        }
+      ],
+      "fatigue": [
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": 20,
+          "level": "Low"
+        },
+        {
+          "value": 23,
+          "level": "Low"
+        },
+        {
+          "value": 26,
+          "level": "Low"
+        },
+        {
+          "value": 29,
+          "level": "Low"
+        },
+        {
+          "value": 32,
+          "level": "Low"
+        },
+        {
+          "value": 35,
+          "level": "Moderate"
+        },
+        {
+          "value": 38,
+          "level": "Moderate"
+        },
+        {
+          "value": 41,
+          "level": "Moderate"
+        },
+        {
+          "value": 44,
+          "level": "Moderate"
+        },
+        {
+          "value": 47,
+          "level": "Moderate"
+        },
+        {
+          "value": 50,
+          "level": "Moderate"
+        },
+        {
+          "value": 53,
+          "level": "Moderate"
+        },
+        {
+          "value": 56,
+          "level": "Moderate"
+        },
+        {
+          "value": 59,
+          "level": "Moderate"
+        },
+        {
+          "value": 62,
+          "level": "High"
+        },
+        {
+          "value": 65,
+          "level": "High"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "events": [
+        {
+          "id": "d2-e0",
+          "title": "Sleep",
+          "startTime": "00:00",
+          "endTime": "06:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 2
+        },
+        {
+          "id": "d2-e1",
+          "title": "Wake-up & breakfast",
+          "startTime": "06:00",
+          "endTime": "07:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 2
+        },
+        {
+          "id": "d2-e2",
+          "title": "Mission briefing",
+          "startTime": "07:00",
+          "endTime": "08:00",
+          "taskIntensity": "medium",
+          "status": "planned",
+          "day": 2
+        },
+        {
+          "id": "d2-e3",
+          "title": "Scientific experiment",
+          "startTime": "08:00",
+          "endTime": "10:00",
+          "taskIntensity": "high",
+          "status": "planned",
+          "day": 2
+        },
+        {
+          "id": "d2-e4",
+          "title": "Recovery break",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 2
+        },
+        {
+          "id": "d2-e5",
+          "title": "Research task",
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "taskIntensity": "high",
+          "status": "planned",
+          "day": 2
+        },
+        {
+          "id": "d2-e6",
+          "title": "Lunch",
+          "startTime": "13:00",
+          "endTime": "14:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 2
+        },
+        {
+          "id": "d2-e7",
+          "title": "Equipment check",
+          "startTime": "14:00",
+          "endTime": "16:00",
+          "taskIntensity": "medium",
+          "status": "planned",
+          "day": 2
+        },
+        {
+          "id": "d2-e8",
+          "title": "Exercise",
+          "startTime": "16:00",
+          "endTime": "17:00",
+          "taskIntensity": "medium",
+          "status": "planned",
+          "day": 2
+        },
+        {
+          "id": "d2-e9",
+          "title": "Personal time",
+          "startTime": "17:00",
+          "endTime": "18:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 2
+        },
+        {
+          "id": "d2-e10",
+          "title": "Dinner",
+          "startTime": "18:00",
+          "endTime": "19:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 2
+        },
+        {
+          "id": "d2-e11",
+          "title": "Mission review",
+          "startTime": "19:00",
+          "endTime": "20:00",
+          "taskIntensity": "medium",
+          "status": "planned",
+          "day": 2
+        },
+        {
+          "id": "d2-e12",
+          "title": "Sleep preparation",
+          "startTime": "20:00",
+          "endTime": "22:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 2
+        },
+        {
+          "id": "d2-e13",
+          "title": "Sleep",
+          "startTime": "22:00",
+          "endTime": "24:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 2
+        }
+      ],
+      "fatigue": [
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": 22,
+          "level": "Low"
+        },
+        {
+          "value": 25,
+          "level": "Low"
+        },
+        {
+          "value": 28,
+          "level": "Low"
+        },
+        {
+          "value": 31,
+          "level": "Low"
+        },
+        {
+          "value": 34,
+          "level": "Low"
+        },
+        {
+          "value": 37,
+          "level": "Moderate"
+        },
+        {
+          "value": 40,
+          "level": "Moderate"
+        },
+        {
+          "value": 43,
+          "level": "Moderate"
+        },
+        {
+          "value": 46,
+          "level": "Moderate"
+        },
+        {
+          "value": 49,
+          "level": "Moderate"
+        },
+        {
+          "value": 52,
+          "level": "Moderate"
+        },
+        {
+          "value": 55,
+          "level": "Moderate"
+        },
+        {
+          "value": 58,
+          "level": "Moderate"
+        },
+        {
+          "value": 61,
+          "level": "High"
+        },
+        {
+          "value": 64,
+          "level": "High"
+        },
+        {
+          "value": 67,
+          "level": "High"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "events": [
+        {
+          "id": "d3-e0",
+          "title": "Sleep",
+          "startTime": "00:00",
+          "endTime": "06:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 3
+        },
+        {
+          "id": "d3-e1",
+          "title": "Wake-up & breakfast",
+          "startTime": "06:00",
+          "endTime": "07:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 3
+        },
+        {
+          "id": "d3-e2",
+          "title": "Mission briefing",
+          "startTime": "07:00",
+          "endTime": "08:00",
+          "taskIntensity": "medium",
+          "status": "planned",
+          "day": 3
+        },
+        {
+          "id": "d3-e3",
+          "title": "Scientific experiment",
+          "startTime": "08:00",
+          "endTime": "10:00",
+          "taskIntensity": "high",
+          "status": "planned",
+          "day": 3
+        },
+        {
+          "id": "d3-e4",
+          "title": "Recovery break",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 3
+        },
+        {
+          "id": "d3-e5",
+          "title": "Research task",
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "taskIntensity": "high",
+          "status": "planned",
+          "day": 3
+        },
+        {
+          "id": "d3-e6",
+          "title": "Lunch",
+          "startTime": "13:00",
+          "endTime": "14:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 3
+        },
+        {
+          "id": "d3-e7",
+          "title": "Equipment check",
+          "startTime": "14:00",
+          "endTime": "16:00",
+          "taskIntensity": "medium",
+          "status": "planned",
+          "day": 3
+        },
+        {
+          "id": "d3-e8",
+          "title": "Exercise",
+          "startTime": "16:00",
+          "endTime": "17:00",
+          "taskIntensity": "medium",
+          "status": "planned",
+          "day": 3
+        },
+        {
+          "id": "d3-e9",
+          "title": "Personal time",
+          "startTime": "17:00",
+          "endTime": "18:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 3
+        },
+        {
+          "id": "d3-e10",
+          "title": "Dinner",
+          "startTime": "18:00",
+          "endTime": "19:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 3
+        },
+        {
+          "id": "d3-e11",
+          "title": "Mission review",
+          "startTime": "19:00",
+          "endTime": "20:00",
+          "taskIntensity": "medium",
+          "status": "planned",
+          "day": 3
+        },
+        {
+          "id": "d3-e12",
+          "title": "Sleep preparation",
+          "startTime": "20:00",
+          "endTime": "22:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 3
+        },
+        {
+          "id": "d3-e13",
+          "title": "Sleep",
+          "startTime": "22:00",
+          "endTime": "24:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 3
+        }
+      ],
+      "fatigue": [
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": 24,
+          "level": "Low"
+        },
+        {
+          "value": 27,
+          "level": "Low"
+        },
+        {
+          "value": 30,
+          "level": "Low"
+        },
+        {
+          "value": 33,
+          "level": "Low"
+        },
+        {
+          "value": 36,
+          "level": "Moderate"
+        },
+        {
+          "value": 39,
+          "level": "Moderate"
+        },
+        {
+          "value": 42,
+          "level": "Moderate"
+        },
+        {
+          "value": 45,
+          "level": "Moderate"
+        },
+        {
+          "value": 48,
+          "level": "Moderate"
+        },
+        {
+          "value": 51,
+          "level": "Moderate"
+        },
+        {
+          "value": 54,
+          "level": "Moderate"
+        },
+        {
+          "value": 57,
+          "level": "Moderate"
+        },
+        {
+          "value": 60,
+          "level": "High"
+        },
+        {
+          "value": 63,
+          "level": "High"
+        },
+        {
+          "value": 66,
+          "level": "High"
+        },
+        {
+          "value": 69,
+          "level": "High"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "events": [
+        {
+          "id": "d4-e0",
+          "title": "Sleep",
+          "startTime": "00:00",
+          "endTime": "06:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 4
+        },
+        {
+          "id": "d4-e1",
+          "title": "Wake-up & breakfast",
+          "startTime": "06:00",
+          "endTime": "07:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 4
+        },
+        {
+          "id": "d4-e2",
+          "title": "Mission briefing",
+          "startTime": "07:00",
+          "endTime": "08:00",
+          "taskIntensity": "medium",
+          "status": "planned",
+          "day": 4
+        },
+        {
+          "id": "d4-e3",
+          "title": "Scientific experiment",
+          "startTime": "08:00",
+          "endTime": "10:00",
+          "taskIntensity": "high",
+          "status": "planned",
+          "day": 4
+        },
+        {
+          "id": "d4-e4",
+          "title": "Recovery break",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 4
+        },
+        {
+          "id": "d4-e5",
+          "title": "Research task",
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "taskIntensity": "high",
+          "status": "planned",
+          "day": 4
+        },
+        {
+          "id": "d4-e6",
+          "title": "Lunch",
+          "startTime": "13:00",
+          "endTime": "14:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 4
+        },
+        {
+          "id": "d4-e7",
+          "title": "Equipment check",
+          "startTime": "14:00",
+          "endTime": "16:00",
+          "taskIntensity": "medium",
+          "status": "planned",
+          "day": 4
+        },
+        {
+          "id": "d4-e8",
+          "title": "Exercise",
+          "startTime": "16:00",
+          "endTime": "17:00",
+          "taskIntensity": "medium",
+          "status": "planned",
+          "day": 4
+        },
+        {
+          "id": "d4-e9",
+          "title": "Personal time",
+          "startTime": "17:00",
+          "endTime": "18:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 4
+        },
+        {
+          "id": "d4-e10",
+          "title": "Dinner",
+          "startTime": "18:00",
+          "endTime": "19:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 4
+        },
+        {
+          "id": "d4-e11",
+          "title": "Mission review",
+          "startTime": "19:00",
+          "endTime": "20:00",
+          "taskIntensity": "medium",
+          "status": "planned",
+          "day": 4
+        },
+        {
+          "id": "d4-e12",
+          "title": "Sleep preparation",
+          "startTime": "20:00",
+          "endTime": "22:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 4
+        },
+        {
+          "id": "d4-e13",
+          "title": "Sleep",
+          "startTime": "22:00",
+          "endTime": "24:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 4
+        }
+      ],
+      "fatigue": [
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": 26,
+          "level": "Low"
+        },
+        {
+          "value": 29,
+          "level": "Low"
+        },
+        {
+          "value": 32,
+          "level": "Low"
+        },
+        {
+          "value": 35,
+          "level": "Moderate"
+        },
+        {
+          "value": 38,
+          "level": "Moderate"
+        },
+        {
+          "value": 41,
+          "level": "Moderate"
+        },
+        {
+          "value": 44,
+          "level": "Moderate"
+        },
+        {
+          "value": 47,
+          "level": "Moderate"
+        },
+        {
+          "value": 50,
+          "level": "Moderate"
+        },
+        {
+          "value": 53,
+          "level": "Moderate"
+        },
+        {
+          "value": 56,
+          "level": "Moderate"
+        },
+        {
+          "value": 59,
+          "level": "Moderate"
+        },
+        {
+          "value": 62,
+          "level": "High"
+        },
+        {
+          "value": 65,
+          "level": "High"
+        },
+        {
+          "value": 68,
+          "level": "High"
+        },
+        {
+          "value": 71,
+          "level": "High"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "events": [
+        {
+          "id": "d5-e0",
+          "title": "Sleep",
+          "startTime": "00:00",
+          "endTime": "06:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 5
+        },
+        {
+          "id": "d5-e1",
+          "title": "Wake-up & breakfast",
+          "startTime": "06:00",
+          "endTime": "07:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 5
+        },
+        {
+          "id": "d5-e2",
+          "title": "Mission briefing",
+          "startTime": "07:00",
+          "endTime": "08:00",
+          "taskIntensity": "medium",
+          "status": "planned",
+          "day": 5
+        },
+        {
+          "id": "d5-e3",
+          "title": "Scientific experiment",
+          "startTime": "08:00",
+          "endTime": "10:00",
+          "taskIntensity": "high",
+          "status": "planned",
+          "day": 5
+        },
+        {
+          "id": "d5-e4",
+          "title": "Recovery break",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 5
+        },
+        {
+          "id": "d5-e5",
+          "title": "Research task",
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "taskIntensity": "high",
+          "status": "planned",
+          "day": 5
+        },
+        {
+          "id": "d5-e6",
+          "title": "Lunch",
+          "startTime": "13:00",
+          "endTime": "14:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 5
+        },
+        {
+          "id": "d5-e7",
+          "title": "Equipment check",
+          "startTime": "14:00",
+          "endTime": "16:00",
+          "taskIntensity": "medium",
+          "status": "planned",
+          "day": 5
+        },
+        {
+          "id": "d5-e8",
+          "title": "Exercise",
+          "startTime": "16:00",
+          "endTime": "17:00",
+          "taskIntensity": "medium",
+          "status": "planned",
+          "day": 5
+        },
+        {
+          "id": "d5-e9",
+          "title": "Personal time",
+          "startTime": "17:00",
+          "endTime": "18:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 5
+        },
+        {
+          "id": "d5-e10",
+          "title": "Dinner",
+          "startTime": "18:00",
+          "endTime": "19:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 5
+        },
+        {
+          "id": "d5-e11",
+          "title": "Mission review",
+          "startTime": "19:00",
+          "endTime": "20:00",
+          "taskIntensity": "medium",
+          "status": "planned",
+          "day": 5
+        },
+        {
+          "id": "d5-e12",
+          "title": "Sleep preparation",
+          "startTime": "20:00",
+          "endTime": "22:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 5
+        },
+        {
+          "id": "d5-e13",
+          "title": "Sleep",
+          "startTime": "22:00",
+          "endTime": "24:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 5
+        }
+      ],
+      "fatigue": [
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": 28,
+          "level": "Low"
+        },
+        {
+          "value": 31,
+          "level": "Low"
+        },
+        {
+          "value": 34,
+          "level": "Low"
+        },
+        {
+          "value": 37,
+          "level": "Moderate"
+        },
+        {
+          "value": 40,
+          "level": "Moderate"
+        },
+        {
+          "value": 43,
+          "level": "Moderate"
+        },
+        {
+          "value": 46,
+          "level": "Moderate"
+        },
+        {
+          "value": 49,
+          "level": "Moderate"
+        },
+        {
+          "value": 52,
+          "level": "Moderate"
+        },
+        {
+          "value": 55,
+          "level": "Moderate"
+        },
+        {
+          "value": 58,
+          "level": "Moderate"
+        },
+        {
+          "value": 61,
+          "level": "High"
+        },
+        {
+          "value": 64,
+          "level": "High"
+        },
+        {
+          "value": 67,
+          "level": "High"
+        },
+        {
+          "value": 70,
+          "level": "High"
+        },
+        {
+          "value": 73,
+          "level": "High"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "events": [
+        {
+          "id": "d6-e0",
+          "title": "Sleep",
+          "startTime": "00:00",
+          "endTime": "06:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 6
+        },
+        {
+          "id": "d6-e1",
+          "title": "Wake-up & breakfast",
+          "startTime": "06:00",
+          "endTime": "07:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 6
+        },
+        {
+          "id": "d6-e2",
+          "title": "Mission briefing",
+          "startTime": "07:00",
+          "endTime": "08:00",
+          "taskIntensity": "medium",
+          "status": "planned",
+          "day": 6
+        },
+        {
+          "id": "d6-e3",
+          "title": "Scientific experiment",
+          "startTime": "08:00",
+          "endTime": "10:00",
+          "taskIntensity": "high",
+          "status": "planned",
+          "day": 6
+        },
+        {
+          "id": "d6-e4",
+          "title": "Recovery break",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 6
+        },
+        {
+          "id": "d6-e5",
+          "title": "Research task",
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "taskIntensity": "high",
+          "status": "planned",
+          "day": 6
+        },
+        {
+          "id": "d6-e6",
+          "title": "Lunch",
+          "startTime": "13:00",
+          "endTime": "14:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 6
+        },
+        {
+          "id": "d6-e7",
+          "title": "Equipment check",
+          "startTime": "14:00",
+          "endTime": "16:00",
+          "taskIntensity": "medium",
+          "status": "planned",
+          "day": 6
+        },
+        {
+          "id": "d6-e8",
+          "title": "Exercise",
+          "startTime": "16:00",
+          "endTime": "17:00",
+          "taskIntensity": "medium",
+          "status": "planned",
+          "day": 6
+        },
+        {
+          "id": "d6-e9",
+          "title": "Personal time",
+          "startTime": "17:00",
+          "endTime": "18:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 6
+        },
+        {
+          "id": "d6-e10",
+          "title": "Dinner",
+          "startTime": "18:00",
+          "endTime": "19:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 6
+        },
+        {
+          "id": "d6-e11",
+          "title": "Mission review",
+          "startTime": "19:00",
+          "endTime": "20:00",
+          "taskIntensity": "medium",
+          "status": "planned",
+          "day": 6
+        },
+        {
+          "id": "d6-e12",
+          "title": "Sleep preparation",
+          "startTime": "20:00",
+          "endTime": "22:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 6
+        },
+        {
+          "id": "d6-e13",
+          "title": "Sleep",
+          "startTime": "22:00",
+          "endTime": "24:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 6
+        }
+      ],
+      "fatigue": [
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": 30,
+          "level": "Low"
+        },
+        {
+          "value": 33,
+          "level": "Low"
+        },
+        {
+          "value": 36,
+          "level": "Moderate"
+        },
+        {
+          "value": 39,
+          "level": "Moderate"
+        },
+        {
+          "value": 42,
+          "level": "Moderate"
+        },
+        {
+          "value": 45,
+          "level": "Moderate"
+        },
+        {
+          "value": 48,
+          "level": "Moderate"
+        },
+        {
+          "value": 51,
+          "level": "Moderate"
+        },
+        {
+          "value": 54,
+          "level": "Moderate"
+        },
+        {
+          "value": 57,
+          "level": "Moderate"
+        },
+        {
+          "value": 60,
+          "level": "High"
+        },
+        {
+          "value": 63,
+          "level": "High"
+        },
+        {
+          "value": 66,
+          "level": "High"
+        },
+        {
+          "value": 69,
+          "level": "High"
+        },
+        {
+          "value": 72,
+          "level": "High"
+        },
+        {
+          "value": 75,
+          "level": "High"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "events": [
+        {
+          "id": "d7-e0",
+          "title": "Sleep",
+          "startTime": "00:00",
+          "endTime": "06:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 7
+        },
+        {
+          "id": "d7-e1",
+          "title": "Wake-up & breakfast",
+          "startTime": "06:00",
+          "endTime": "07:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 7
+        },
+        {
+          "id": "d7-e2",
+          "title": "Mission briefing",
+          "startTime": "07:00",
+          "endTime": "08:00",
+          "taskIntensity": "medium",
+          "status": "planned",
+          "day": 7
+        },
+        {
+          "id": "d7-e3",
+          "title": "Scientific experiment",
+          "startTime": "08:00",
+          "endTime": "10:00",
+          "taskIntensity": "high",
+          "status": "planned",
+          "day": 7
+        },
+        {
+          "id": "d7-e4",
+          "title": "Recovery break",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 7
+        },
+        {
+          "id": "d7-e5",
+          "title": "Research task",
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "taskIntensity": "high",
+          "status": "planned",
+          "day": 7
+        },
+        {
+          "id": "d7-e6",
+          "title": "Lunch",
+          "startTime": "13:00",
+          "endTime": "14:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 7
+        },
+        {
+          "id": "d7-e7",
+          "title": "Equipment check",
+          "startTime": "14:00",
+          "endTime": "16:00",
+          "taskIntensity": "medium",
+          "status": "planned",
+          "day": 7
+        },
+        {
+          "id": "d7-e8",
+          "title": "Exercise",
+          "startTime": "16:00",
+          "endTime": "17:00",
+          "taskIntensity": "medium",
+          "status": "planned",
+          "day": 7
+        },
+        {
+          "id": "d7-e9",
+          "title": "Personal time",
+          "startTime": "17:00",
+          "endTime": "18:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 7
+        },
+        {
+          "id": "d7-e10",
+          "title": "Dinner",
+          "startTime": "18:00",
+          "endTime": "19:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 7
+        },
+        {
+          "id": "d7-e11",
+          "title": "Mission review",
+          "startTime": "19:00",
+          "endTime": "20:00",
+          "taskIntensity": "medium",
+          "status": "planned",
+          "day": 7
+        },
+        {
+          "id": "d7-e12",
+          "title": "Sleep preparation",
+          "startTime": "20:00",
+          "endTime": "22:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 7
+        },
+        {
+          "id": "d7-e13",
+          "title": "Sleep",
+          "startTime": "22:00",
+          "endTime": "24:00",
+          "taskIntensity": "low",
+          "status": "planned",
+          "day": 7
+        }
+      ],
+      "fatigue": [
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": 32,
+          "level": "Low"
+        },
+        {
+          "value": 35,
+          "level": "Moderate"
+        },
+        {
+          "value": 38,
+          "level": "Moderate"
+        },
+        {
+          "value": 41,
+          "level": "Moderate"
+        },
+        {
+          "value": 44,
+          "level": "Moderate"
+        },
+        {
+          "value": 47,
+          "level": "Moderate"
+        },
+        {
+          "value": 50,
+          "level": "Moderate"
+        },
+        {
+          "value": 53,
+          "level": "Moderate"
+        },
+        {
+          "value": 56,
+          "level": "Moderate"
+        },
+        {
+          "value": 59,
+          "level": "Moderate"
+        },
+        {
+          "value": 62,
+          "level": "High"
+        },
+        {
+          "value": 65,
+          "level": "High"
+        },
+        {
+          "value": 68,
+          "level": "High"
+        },
+        {
+          "value": 71,
+          "level": "High"
+        },
+        {
+          "value": 74,
+          "level": "High"
+        },
+        {
+          "value": 77,
+          "level": "High"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        },
+        {
+          "value": null,
+          "level": "Sleeping"
+        }
+      ]
+    }
+  ]
+}
